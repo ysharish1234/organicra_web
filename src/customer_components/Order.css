@@ -1,0 +1,46 @@
+.order_details{
+    border:2px solid black;
+    padding:2rem;
+    width:110%;
+    margin-left:5rem;
+    flex-direction: column;
+    align-items:center;
+}
+.order_item{
+    display:flex;
+    flex-direction:row;
+    margin-top:2rem;
+    align-items:center;
+    justify-content:space-between;
+}
+.order_info{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+}
+.address_price_container{
+    display:flex;
+    flex-direction:column;
+}
+.order_add_info{
+    width:100%;
+    border:1px solid black;
+}
+.order_nav{
+    width:90%;
+    height:5rem;
+    border:1px solid black;
+    margin:5rem;
+    margin-top: 8rem;
+    background-color: rgba(32, 32, 32);
+    margin-bottom: 2rem;
+    display:flex;
+    flex-direction:row;
+    color:rgba(145, 199, 51);
+    align-items: center;
+    justify-content:space-evenly;
+    border-radius:1rem;
+}
+.order_details:hover{
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1), 0 -6px 12px rgba(255, 255, 255, 0.1);
+}

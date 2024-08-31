@@ -1,0 +1,10 @@
+.aboutus{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:flex-start;
+    margin:8rem 7rem 2rem 7rem;
+    background-color: RGBA(180,180,184,0.2);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+}

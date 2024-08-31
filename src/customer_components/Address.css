@@ -1,0 +1,53 @@
+.add_row{
+    display:flex;
+    flex-direction: row;
+}
+.input_line{
+    border: none;
+    border-bottom: 1px solid #ccc; 
+    outline: none; 
+    width:50%; 
+    margin-bottom:10px; 
+    border-color:#9BCF53;
+}
+.Address{
+    width:70%;
+    height:"80%";
+    border:1px solid black;
+    margin-left:15rem;
+    padding-bottom:2rem;
+    margin-top:3rem;
+}
+.add_address_btn{
+    width:20rem;
+    height:3.5rem;
+    background-color:#9cc63d;
+    border-radius:0.5rem;
+    color:white;
+}
+.add_address_btn:hover{
+background-color:#9BCF53;
+}
+.address_display_format{
+    display:grid;
+    grid-template-columns: repeat(3, 10fr);
+    gap:1rem; 
+    padding-left:5rem;
+    padding-right:5rem;
+}
+.adress_gird_style{
+    width:100%;
+    border:1px solid black;
+}
+.selected_box{
+    width:100%;
+    border:0.2rem solid greenyellow;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1), 0 -6px 12px rgba(255, 255, 255, 0.1);
+}
+.order_now_btn2{
+width:20rem;
+height:3.5rem;
+background-color:#9cc63d;
+border-radius:0.5rem;
+color:white;
+}

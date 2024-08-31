@@ -1,0 +1,16 @@
+.Container{
+    margin-top:8rem;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+img{
+    height:10%;
+    width:100%;
+}
+.sample_products{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    margin-top: 5rem;
+}
