@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/your-username/your-repo-name/blob/main/public/homePage.png?raw=true)
+![Logo](https://github.com/your-username/your-repo-name/blob/main/public/home.png?raw=true)
 
 
 
