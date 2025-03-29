@@ -3,6 +3,7 @@
 ![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/vegetables.png?raw=true)
 ![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/fruits.png?raw=true)
 ![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/product_search.png?raw=true)
+![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/orders.png?raw=true)
 
 
 
