@@ -1,9 +1,18 @@
 
-![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/home.png?raw=true)
-![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/vegetables.png?raw=true)
-![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/fruits.png?raw=true)
-![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/product_search.png?raw=true)
-![Logo](https://github.com/ysharish1234/organicra_web/blob/main/public/orders.png?raw=true)
+<table>
+  <tr>
+    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/home.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/vegetables.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/fruits.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/product_search.png?raw=true" width="200"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/orders.png?raw=true" width="200"></td>
+  </tr>
+</table>
+
 
 
 
