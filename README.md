@@ -1,17 +1,18 @@
 
-<table>
+<table width="100%">
   <tr>
-    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/home.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/vegetables.png?raw=true" width="200"></td>
+    <td width="50%"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/home.png?raw=true" width="100%"></td>
+    <td width="50%"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/vegetables.png?raw=true" width="100%"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/fruits.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/product_search.png?raw=true" width="200"></td>
+    <td width="50%"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/fruits.png?raw=true" width="100%"></td>
+    <td width="50%"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/product_search.png?raw=true" width="100%"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/orders.png?raw=true" width="200"></td>
+    <td colspan="2"><img src="https://github.com/ysharish1234/organicra_web/blob/main/public/orders.png?raw=true" width="100%"></td>
   </tr>
 </table>
+
 
 
 
